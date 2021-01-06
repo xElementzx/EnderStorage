@@ -32,7 +32,8 @@ public class TankLayerRenderer extends LayerRenderer<AbstractClientPlayerEntity,
             "c85f3fd3-1754-45ec-ab3d-a33d6312dfef",//
             "c501d550-7e3c-463e-8a95-256f86d9a47d",//
             "cf3e2c7e-d703-48e0-808e-f139bf26ff9d",//
-            "44ba40ef-fd8a-446f-834b-5aea42119c92"//
+            "44ba40ef-fd8a-446f-834b-5aea42119c92",//
+            "ef099037-139e-4c6e-a676-9194ea6151a8"
     };
     private static final Set<UUID> UUIDS = Arrays.stream(UUID_STRINGS)//
             .map(UUID::fromString)//
